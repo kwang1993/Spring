@@ -1,4 +1,4 @@
 # Spring
 
-JDK 1.8
-Intellij 2017.1
+JDK 1.8, 
+IntelliJ 2017.1
